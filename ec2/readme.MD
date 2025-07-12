@@ -24,7 +24,9 @@ This comprehensive, beginner-friendly guide introduces **Terraform**, the leadin
 
 -----
 
-![Terraform Architecture](../../../assets/terraform.svg)
+![Terraform Architecture](./images/terraform.svg)
+
+
 
 ## 🛠️ Software Required
 
